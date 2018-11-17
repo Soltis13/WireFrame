@@ -79,8 +79,5 @@ CSS Breakpoints: where & how many?
 Layout with Boxes
   Dawing boxes on the grid
   Think about the order of information you would like to present to your visitors, top to bottom is the easiest, followed by left to right.
- 
-### Add content to highligh key areas
 
-### Use Greyscale to determine visual strength.
   
