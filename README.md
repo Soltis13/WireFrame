@@ -1,10 +1,10 @@
 # WireFrame
   What: Wireframes are the blueprints of a website and are fundamental in the design of new Webpages.
 
-  Goals: Understand the pusrpose and use cases for wireframes.
-         Outline the creation process of wireframes.
-         Create a few examples/exercises of wireframes, posibley based on other websites and display them as examples.  
-         Idealy these examples will serve as visauls for future webdesign (ie, different design options).
+  Goals: Understand the pusrpose and use cases for wireframes.   
+         Outline the creation process of wireframes.   
+         Create a few examples/exercises of wireframes, posibley based on other websites and display them as examples.    
+         Idealy these examples will serve as visauls for future webdesign (ie, different design options   
          
 ## Purpose of Wireframeing
 
